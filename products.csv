@@ -1,0 +1,5 @@
+product_id,foodtruck_id,name,price,stock
+101,1,Taco al pastor,50,100
+102,1,Quesadilla,40,80
+103,2,Cheeseburger,70,120
+104,2,Papas fritas,30,150

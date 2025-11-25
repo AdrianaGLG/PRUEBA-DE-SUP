@@ -1,0 +1,3 @@
+order_id,foodtruck_id,order_date,status,total
+1001,1,2023-09-01,entregado,90
+1002,2,2023-09-01,pendiente,100
